@@ -1,0 +1,8 @@
+{
+  "name": "Remix Anime Wallpapers",
+  "description": "Explore 1,500+ Ultra HD 4K wallpapers: Anime, KTM Duke 250/390, Supercars, Wild Animals, and Aesthetic Fruits with one-tap set.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
